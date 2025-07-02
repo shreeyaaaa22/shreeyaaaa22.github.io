@@ -2,23 +2,23 @@
 const studentData = {
   // Personal Information
   personal: {
-    name: "Alex Johnson",
+    name: "Shreeya Shrestha",
     title: "Computer Science Student",
     description:
       "Passionate about creating innovative solutions through code. Currently pursuing my degree in Computer Science with a focus on web development and artificial intelligence.",
     profileImage: "/placeholder.svg?height=300&width=300",
-    email: "alex.johnson@email.com",
-    phone: "+1 (555) 123-4567",
-    location: "San Francisco, CA",
-    website: "www.alexjohnson.dev",
+    email: "shreeyastha72@email.com",
+    phone: "9765006016",
+    location: "lokanthali,bhaktapur",
+    website: "www.shreeya.dev",
   },
 
   // Social Links
   social: {
-    github: "https://github.com/alexjohnson",
+    github: "https://github.com/shreeyaaaa22",
     linkedin: "https://linkedin.com/in/alexjohnson",
     twitter: "https://twitter.com/alexjohnson",
-    instagram: "https://instagram.com/alexjohnson",
+    instagram: "https://instagram.com/shreeya_xtha_",
   },
 
   // About Section
@@ -26,12 +26,10 @@ const studentData = {
     description:
       "I'm a dedicated Computer Science student with a passion for technology and innovation. My journey in programming started during high school, and since then, I've been constantly learning and exploring new technologies. I enjoy solving complex problems and creating user-friendly applications that make a difference in people's lives.",
     quickFacts: [
-      "🎓 Computer Science Major",
-      "💻 3+ Years of Coding Experience",
-      "🌟 Dean's List Student",
-      "🚀 Open Source Contributor",
-      "📚 Continuous Learner",
-      "🎯 Problem Solver",
+      "mobile chalauna ma 1 number",
+      "i can laugh anytime at any situation",
+      "i can dance",
+      
     ],
     stats: {
       projectsCount: 15,
@@ -45,7 +43,7 @@ const studentData = {
     {
       year: "2022 - 2026",
       degree: "Bachelor of Science in Computer Science",
-      institution: "University of California, Berkeley",
+      institution: "swastik collage",
       description:
         "Relevant coursework: Data Structures, Algorithms, Software Engineering, Database Systems, Machine Learning, Web Development. Current GPA: 3.8/4.0",
     },
